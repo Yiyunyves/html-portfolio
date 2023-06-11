@@ -1,13 +1,43 @@
 h1 {
     color: #5840B3;
+    font-family: 'Caveat', cursive;
+font-family: 'Lato', sans-serif;
+}
+
+#descriptionbox {
+background-color: transparent;
+width: 60%;
+}
+
+#navigation {
+    font-family: 'Caveat', cursive;
+font-family: 'Lato', sans-serif;
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+font-family: 'Lato', sans-serif;
 }
 
 h6 {
     font-weight: normal;
-    color: #624E84
-
-
+    color: #624E84;
+    font-family: 'Caveat', cursive;
+    font-family: 'Lato', sans-serif;
 }
 
+#bonusbox {
+    background-color: #DDE6ED;
+    width: 250px; padding:10px;
+    margin-top: 20px;
+}
 
+p{
+    font-family: 'Caveat', cursive;
+font-family: 'Lato', sans-serif;
+}
 
+#previewbox {
+    background-color: transparent;
+    width: 340px
+}
