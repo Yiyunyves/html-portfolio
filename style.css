@@ -39,5 +39,9 @@ font-family: 'Lato', sans-serif;
 
 #previewbox {
     background-color: transparent;
-    width: 340px
+    width: 360px
+}
+
+body {
+    margin:40px
 }
